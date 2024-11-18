@@ -1,0 +1,48 @@
+Date : 2024-11-13 23:08:50
+Directory : /Users/hikkary/projets/cours/cdn
+Total : 17 files,  556 codes, 183 comments, 143 blanks, all 882 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |         15 |        461 |        183 |        108 |        752 |
+| Markdown   |          1 |         70 |          0 |         34 |        104 |
+| JSON       |          1 |         25 |          0 |          1 |         26 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                               | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                  |         17 |        556 |        183 |        143 |        882 |
+| . (Files)                                                          |          4 |        219 |        113 |         66 |        398 |
+| config                                                             |          3 |         46 |          6 |          8 |         60 |
+| middlewares                                                        |          4 |         70 |         10 |         19 |         99 |
+| routes                                                             |          3 |         68 |         19 |         21 |        108 |
+| services                                                           |          3 |        153 |         35 |         29 |        217 |
++--------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                           | language   | code       | comment    | blank      | total      |
++--------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| /Users/hikkary/projets/cours/cdn/config/corsConfig.js              | JavaScript |          7 |          0 |          0 |          7 |
+| /Users/hikkary/projets/cours/cdn/config/rateLimit.js               | JavaScript |          9 |          0 |          2 |         11 |
+| /Users/hikkary/projets/cours/cdn/config/uploadConfig.js            | JavaScript |         30 |          6 |          6 |         42 |
+| /Users/hikkary/projets/cours/cdn/index.js                          | JavaScript |         47 |         18 |         25 |         90 |
+| /Users/hikkary/projets/cours/cdn/middlewares/auth.js               | JavaScript |         22 |          0 |          5 |         27 |
+| /Users/hikkary/projets/cours/cdn/middlewares/cacheMiddleware.js    | JavaScript |         24 |          1 |          8 |         33 |
+| /Users/hikkary/projets/cours/cdn/middlewares/forceHttps.js         | JavaScript |          7 |          5 |          1 |         13 |
+| /Users/hikkary/projets/cours/cdn/middlewares/monitoring.js         | JavaScript |         17 |          4 |          5 |         26 |
+| /Users/hikkary/projets/cours/cdn/package.json                      | JSON       |         25 |          0 |          1 |         26 |
+| /Users/hikkary/projets/cours/cdn/readme.md                         | Markdown   |         70 |          0 |         34 |        104 |
+| /Users/hikkary/projets/cours/cdn/routes/auth.js                    | JavaScript |         28 |          7 |          7 |         42 |
+| /Users/hikkary/projets/cours/cdn/routes/imageRoutes.js             | JavaScript |         18 |          2 |          7 |         27 |
+| /Users/hikkary/projets/cours/cdn/routes/uploadRoutes.js            | JavaScript |         22 |         10 |          7 |         39 |
+| /Users/hikkary/projets/cours/cdn/services/imageOptimizer.js        | JavaScript |         66 |         15 |         12 |         93 |
+| /Users/hikkary/projets/cours/cdn/services/imageService.js          | JavaScript |         31 |         15 |          5 |         51 |
+| /Users/hikkary/projets/cours/cdn/services/optimizedImageService.js | JavaScript |         56 |          5 |         12 |         73 |
+| /Users/hikkary/projets/cours/cdn/swagger.js                        | JavaScript |         77 |         95 |          6 |        178 |
+| Total                                                              |            |        556 |        183 |        143 |        882 |
++--------------------------------------------------------------------+------------+------------+------------+------------+------------+
